@@ -1,0 +1,8 @@
+{
+  "name": "Copy of talk to mee!",
+  "description": "An interactive web application for practicing English speaking using Gemini AI. Features include real-time voice conversation, vocabulary building by category, AI-generated practice sentences, and image-based visual learning/editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
